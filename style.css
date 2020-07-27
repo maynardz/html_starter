@@ -60,6 +60,7 @@ header {
     flex-flow: row wrap;
 }
 
+/* this grabs any direct child of the body tag */
 body>* {
     padding: 1%;
 }
